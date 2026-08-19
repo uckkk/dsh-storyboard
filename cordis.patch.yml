@@ -1,0 +1,4 @@
+# 分镜脚本模板与术语（dsh-storyboard）bundle patch：作为 profile 的一层 patch，插入本插件的加载行。
+- insert:
+    - id: storyboard
+      name: 'dsh-storyboard'
